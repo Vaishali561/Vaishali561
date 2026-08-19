@@ -35,6 +35,17 @@
 
 ---
 
+# Achievements & Milestones
+- 🥇 Winner at IIT Bombay: Secured a winning position at Eduthon Hackthon held at IIT Bombay.
+
+- 🎓 Pursuing the Data Science program at IIT Madras.
+
+- 💡 Developed the "Sentinel" crisis response prototype for the Solution Challenge 2026.
+
+- 📊 Built and optimized end-to-end predictive models for the Comment Category Prediction Challenge.
+
+---
+
 ## Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/vaishali-tripathi-3805ba2a9
 - 📧 Email: vaishalitripathi@gmail.com

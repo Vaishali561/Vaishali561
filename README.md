@@ -18,7 +18,7 @@
 
 ## Key Projects
 
- *** 🤖 Teacher Insight Engine ***
+ ***🤖 Teacher Insight Engine***
 - A comprehensive dashboard application that enables educators to efficiently track student data and performance metrics using fast backend APIs.
 
 🏥 Hospital Management System

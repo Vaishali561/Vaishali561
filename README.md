@@ -2,17 +2,18 @@
 🎓 Data Science Student @ IIT Madras
 💻 Full-Stack Developer | 🤖 ML Enthusiast | 🛡️ Ethical Hacking Learner
 
-<!--
-**Vaishali561/Vaishali561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am currently working on scalable web applications using React, Vue, FastAPI, and Flask.
+🌱 I am currently learning and exploring advanced Machine Learning.
+🏆 Active Hackathon Participant (Solution Challenge, RIFT-26, IIT Bombay Hackathon).
+⚡ Fun fact: I enjoy solving CTF challenges and analyzing large datasets!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+Languages: Python, JavaScript, SQL
+Frontend: React, Vue.js, HTML/CSS
+Backend: FastAPI, Flask
+Databases: SQLite, DuckDB
+Tools & DevOps: Docker, Git, GitHub Actions, Linux
+
+---

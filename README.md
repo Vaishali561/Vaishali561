@@ -36,5 +36,7 @@
 ---
 
 ## Connect With Me
+💼 LinkedIn: www.linkedin.com/in/vaishali-tripathi-3805ba2a9
+📧 Email: vaishalitripathi@gmail.com
 
-📧 Email: (vaishalitripathi@gmail.com)
+---

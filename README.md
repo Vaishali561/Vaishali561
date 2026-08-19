@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Vaishali Tripathi
+🎓 Data Science Student @ IIT Madras
+💻 Full-Stack Developer | 🤖 ML Enthusiast | 🛡️ Ethical Hacking Learner
 
 <!--
 **Vaishali561/Vaishali561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

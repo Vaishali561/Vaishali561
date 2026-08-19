@@ -34,3 +34,7 @@
 - End-to-end machine learning models utilizing advanced algorithms like LightGBM and XGBoost, optimized for accurate data categorization and pattern analysis in large datasets.
 
 ---
+
+## Connect With Me
+
+📧 Email: (vaishalitripathi@gmail.com)

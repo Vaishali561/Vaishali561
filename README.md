@@ -9,9 +9,9 @@
 
 ## Tech Stack & Tools
 * Languages: Python, JavaScript, SQL
-* Frontend: React, Vue.js, HTML/CSS 
+* Frontend: React, HTML/CSS 
 * Backend: FastAPI, Flask
-* Databases: SQLite, DuckDB
+* Databases: SQLite
 * Tools & DevOps: Git, GitHub Actions, Linux
 
 ---
@@ -48,6 +48,6 @@
 
 ## Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/vaishali-tripathi-3805ba2a9
-- 📧 Email: vaishalitripathi@gmail.com
+- 📧 Email: vaishalitripathi54@gmail.com
 
 ---
